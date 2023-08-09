@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics and Project Management
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on learning projeccts and jobs.
-- 📫 How to reach me acehubwriters@gmail.com
+- 📫 How to reach me glenawanjiru@gmail.com
 
 <!---
 Gwanjiru/Gwanjiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
